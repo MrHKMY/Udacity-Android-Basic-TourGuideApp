@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="category_1">Place</string>
+
+    <string name="category_2">Island</string>
+
+    <string name="category_3">Theme Park</string>
+
+    <string name="category_4">Nature</string>
+
+    <string name="place_1">Petronas Twin Tower</string>
+
+    <string name="place_2">Kuala Lumpur Tower</string>
+
+    <string name="place_3">A Famosa</string>
+
+    <string name="place_4">Komtar</string>
+
+    <string name="place_5">Stadhuys</string>
+
+    <string name="place_6">Putra Mosque</string>
+
+    <string name="place_7">Batu Caves</string>
+
+    <string name="place_info1">Kuala Lumpur</string>
+
+    <string name="place_info2">Kuala Lumpur</string>
+
+    <string name="place_info3">Melaka</string>
+
+    <string name="place_info4">Penang</string>
+
+    <string name="place_info5">Melaka</string>
+
+    <string name="place_info6">Putrajaya</string>
+
+    <string name="place_info7">Selangor</string>
+
+    <string name="place_info_detail">The Petronas Towers, also known as the Petronas Twin Towers, are twin skyscrapers in Kuala Lumpur, Malaysia.</string>
+
+    <string name="island_1">Tioman Island</string>
+
+    <string name="island_2">Langkawi</string>
+
+    <string name="island_3">Pangkor Island</string>
+
+    <string name="island_4">Kapas Island</string>
+
+    <string name="island_5">Redang Island</string>
+
+    <string name="island_6">Rawa Island</string>
+
+    <string name="island_7">Payar Island</string>
+
+    <string name="island_info1">Tioman Island lies off the east coast of Peninsular Malaysia</string>
+
+    <string name="island_info2">Officially known as Langkawi the Jewel of Kedah</string>
+
+    <string name="island_info3">Pangkor Island is a resort island in Manjung District, Perak, Malaysia</string>
+
+    <string name="island_info4">Kapas Island is an island located about 6 kilometers east of Marang, Malaysia</string>
+
+    <string name="island_info5">Redang Island is an island in Kuala Nerus District, Terengganu, Malaysia. </string>
+
+    <string name="island_info6">Rawa Island is a coral island in Mersing District, Johor, Malaysia.</string>
+
+    <string name="island_info7">Payar Island is one of the many islands off mainland Kedah in the Strait of Malacca</string>
+
+    <string name="island_info_detail">Kapas Island is an island located about 6 kilometers east of Marang, Malaysia, with a smaller island, Pulau Gemia, located north of it. It measures roughly 1.5 by 2.5 km. Its name, Pulau Kapas, refers to the island\'s white beaches.</string>
+
+    <string name="theme_1">Sunway Lagoon</string>
+
+    <string name="theme_2">Legoland</string>
+
+    <string name="theme_3">Aquaria KLCC</string>
+
+    <string name="theme_4">Genting Highlands</string>
+
+    <string name="theme_5">Lost World of Tambun</string>
+
+    <string name="theme_info1">Theme park in Bandar Sunway, Subang Jaya, Selangor, Malaysia</string>
+
+    <string name="theme_info2">Malaysia\'s 1st international theme park</string>
+
+    <string name="theme_info3">The Aquaria KLCC is an oceanarium located beneath KLCC</string>
+
+    <string name="theme_info4">A high-altitude hill resort in Malaysia, located in the Titiwangsa Mountains</string>
+
+    <string name="theme_info5">A theme park and hotel in Sunway City Ipoh, Perak</string>
+
+    <string name="nature_1">Gunung Kinabalu</string>
+
+    <string name="nature_2">Taman Negara</string>
+
+    <string name="nature_3">Penang Hill</string>
+
+    <string name="nature_4">Zoo Negara</string>
+
+    <string name="nature_5">Langkawi Cable Car</string>
+
+    <string name="nature_info1">Sabah</string>
+
+    <string name="nature_info2">Pahang</string>
+
+    <string name="nature_info3">Penang</string>
+
+    <string name="nature_info4">Pahang</string>
+
+    <string name="nature_info5">Kedah</string>
+
+    <string name="web_tioman">http://wikitravel.org/en/Tioman/</string>
+
+    <string name="web_langkawi">https://en.wikipedia.org/wiki/Langkawi</string>
+
+    <string name="web_pangkor">https://en.wikipedia.org/wiki/Pangkor_Island</string>
+
+    <string name="web_kapas">https://www.google.com/</string>
+
+    <string name="web_redang">https://www.google.com/</string>
+
+    <string name="web_rawa">https://www.google.com/</string>
+
+    <string name="web_payar">https://en.wikipedia.org/wiki/Payar_Island/</string>
+
+    <string name="web_petronas">https://www.petronastwintowers.com.my/</string>
+
+    <string name="web_kl">https://www.menarakl.com.my/</string>
+
+    <string name="web_famosa">http://www.afamosa.com/</string>
+
+    <string name="web_thetop">https://thetop.com.my/</string>
+
+    <string name="web_stadthuys">https://en.wikipedia.org/wiki/Stadthuys</string>
+
+    <string name="web_putra">http://www.masjidputra.gov.my/</string>
+
+    <string name="web_caves">http://www.masjidputra.gov.my/</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3140a1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="category_list">#45a9ea</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_places">#5a65dbef</color>
+    <color name="category_islands">#5a8eef65</color>
+    <color name="category_themepark">#5aefdf65</color>
+    <color name="category_nature">#5aef6585</color>
+    <color name="info_layout">#5da3ba</color>
+    <color name="button">#62dfdfdf</color>
+</resources>
