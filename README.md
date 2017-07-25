@@ -4,3 +4,5 @@ The goal is to create a tour guide app which presents relevant information to a 
 
 
 ## Preview
+
+![screenshot_1500958371](https://user-images.githubusercontent.com/28524056/28556403-c00e4e0a-7138-11e7-9e3a-3fcf2aedc936.png)
